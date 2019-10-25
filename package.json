@@ -1,7 +1,7 @@
 {
   "name": "dentcongrat",
   "version": "0.1.0",
-  "homepage": "https://theduckcreator.in.th/dentcongrat",
+  "homepage": "https://theduckcreator.github.io/dentcongrat",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages  -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
